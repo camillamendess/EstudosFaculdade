@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="633.0" prefWidth="931.0" style="-fx-background-color: #4F4F4F;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controle">
+   <children>
+      <ImageView fx:id="CarroAzul" fitHeight="43.0" fitWidth="68.0" layoutX="300.0" layoutY="433.0" pickOnBounds="true" preserveRatio="true" rotate="90.0">
+         <image>
+            <Image url="@Imagens/Carro1.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="69.0" fitWidth="94.0" layoutX="64.0" layoutY="39.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/cuboverde.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="70.0" fitWidth="80.0" layoutX="204.0" layoutY="39.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/cuboverde.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="70.0" fitWidth="83.0" layoutX="344.0" layoutY="39.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/cuboverde.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="70.0" fitWidth="195.0" layoutX="484.0" layoutY="39.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/cuboverde.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="70.0" fitWidth="195.0" layoutX="624.0" layoutY="39.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/cuboverde.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="71.0" fitWidth="80.0" layoutX="64.0" layoutY="143.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/cuboverde.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="70.0" fitWidth="80.0" layoutX="204.0" layoutY="143.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/cuboverde.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="70.0" fitWidth="71.0" layoutX="344.0" layoutY="143.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/cuboverde.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="70.0" fitWidth="195.0" layoutX="484.0" layoutY="143.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/cuboverde.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="71.0" fitWidth="69.0" layoutX="624.0" layoutY="143.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/cuboverde.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="71.0" fitWidth="80.0" layoutX="64.0" layoutY="253.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/cuboverde.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="70.0" fitWidth="80.0" layoutX="204.0" layoutY="253.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/cuboverde.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="70.0" fitWidth="195.0" layoutX="344.0" layoutY="253.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/cuboverde.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="70.0" fitWidth="195.0" layoutX="484.0" layoutY="253.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/cuboverde.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="70.0" fitWidth="195.0" layoutX="624.0" layoutY="253.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/cuboverde.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="71.0" fitWidth="80.0" layoutX="64.0" layoutY="363.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/cuboverde.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="70.0" fitWidth="80.0" layoutX="204.0" layoutY="363.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/cuboverde.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="70.0" fitWidth="80.0" layoutX="344.0" layoutY="363.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/cuboverde.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="70.0" fitWidth="195.0" layoutX="484.0" layoutY="363.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/cuboverde.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="71.0" fitWidth="80.0" layoutX="624.0" layoutY="363.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/cuboverde.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="71.0" fitWidth="80.0" layoutX="64.0" layoutY="473.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/cuboverde.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="70.0" fitWidth="80.0" layoutX="204.0" layoutY="473.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/cuboverde.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="69.0" fitWidth="71.0" layoutX="344.0" layoutY="473.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/cuboverde.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="69.0" fitWidth="88.0" layoutX="484.0" layoutY="473.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/cuboverde.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="70.0" fitWidth="195.0" layoutX="624.0" layoutY="473.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/cuboverde.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="CarroVermelho" fitHeight="43.0" fitWidth="68.0" layoutX="69.0" layoutY="2.0" pickOnBounds="true" preserveRatio="true" rotate="90.0">
+         <image>
+            <Image url="@Imagens/Carro2.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="CarroPreto" fitHeight="43.0" fitWidth="68.0" layoutX="170.0" layoutY="213.0" pickOnBounds="true" preserveRatio="true" rotate="-90.0">
+         <image>
+            <Image url="@Imagens/Carro3.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="CarroBranco" fitHeight="43.0" fitWidth="68.0" layoutX="589.0" layoutY="323.0" pickOnBounds="true" preserveRatio="true" rotate="90.0">
+         <image>
+            <Image url="@Imagens/Carro4.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="CarroAmarelo" fitHeight="43.0" fitWidth="68.0" layoutX="300.0" layoutY="258.0" pickOnBounds="true" preserveRatio="true" rotate="180.0">
+         <image>
+            <Image url="@Imagens/Carro5.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="CarroRosa" fitHeight="43.0" fitWidth="68.0" layoutX="718.0" layoutY="213.0" pickOnBounds="true" preserveRatio="true" rotate="-90.0">
+         <image>
+            <Image url="@Imagens/Carro6.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="iniciarButton" layoutX="801.0" layoutY="550.0" mnemonicParsing="false" onAction="#iniciarButton" prefHeight="43.0" prefWidth="82.0" text="Iniciar" />
+      <ImageView fitHeight="59.0" fitWidth="43.0" layoutX="777.0" layoutY="65.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/Carro1.png" />
+         </image>
+      </ImageView>
+      <Line endX="601.5" endY="526.5" layoutX="161.0" layoutY="-16.0" startX="601.5" startY="12.29290771484375" />
+      <ImageView fitHeight="59.0" fitWidth="43.0" layoutX="777.0" layoutY="135.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/Carro2.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="59.0" fitWidth="43.0" layoutX="777.0" layoutY="212.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/Carro3.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="59.0" fitWidth="43.0" layoutX="777.0" layoutY="292.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/Carro4.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="59.0" fitWidth="43.0" layoutX="777.0" layoutY="370.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/Carro5.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="59.0" fitWidth="43.0" layoutX="777.0" layoutY="445.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Imagens/Carro6.png" />
+         </image>
+      </ImageView>
+      <Button layoutX="815.0" layoutY="85.0" mnemonicParsing="false" onAction="#aumentarVelocidadeCarroAzul" prefHeight="25.0" prefWidth="26.0" style="-fx-background-radius: 50;" text="+" />
+      <Button layoutX="847.0" layoutY="86.0" mnemonicParsing="false" onAction="#diminuirVelocidadeCarroAzul" prefHeight="25.0" prefWidth="26.0" style="-fx-background-radius: 50;" text="-" />
+      <Button layoutX="816.0" layoutY="152.0" mnemonicParsing="false" onAction="#aumentarVelocidadeCarroVermelho" prefHeight="25.0" prefWidth="26.0" style="-fx-background-radius: 50;" text="+" />
+      <Button layoutX="848.0" layoutY="152.0" mnemonicParsing="false" onAction="#diminuirVelocidadeCarroVermelho" prefHeight="25.0" prefWidth="26.0" style="-fx-background-radius: 50;" text="-" />
+      <Button layoutX="816.0" layoutY="229.0" mnemonicParsing="false" onAction="#aumentarVelocidadeCarroPreto" prefHeight="25.0" prefWidth="26.0" style="-fx-background-radius: 50;" text="+" />
+      <Button layoutX="848.0" layoutY="229.0" mnemonicParsing="false" onAction="#diminuirVelocidadeCarroPreto" prefHeight="25.0" prefWidth="26.0" style="-fx-background-radius: 50;" text="-" />
+      <Button layoutX="816.0" layoutY="312.0" mnemonicParsing="false" onAction="#aumentarVelocidadeCarroBranco" prefHeight="25.0" prefWidth="26.0" style="-fx-background-radius: 50;" text="+" />
+      <Button layoutX="848.0" layoutY="312.0" mnemonicParsing="false" onAction="#diminuirVelocidadeCarroBranco" prefHeight="25.0" prefWidth="26.0" style="-fx-background-radius: 50;" text="-" />
+      <Button layoutX="816.0" layoutY="386.0" mnemonicParsing="false" onAction="#aumentarVelocidadeCarroAmarelo" prefHeight="25.0" prefWidth="26.0" style="-fx-background-radius: 50;" text="+" />
+      <Button layoutX="848.0" layoutY="386.0" mnemonicParsing="false" onAction="#diminuirVelocidadeCarroAmarelo" prefHeight="25.0" prefWidth="26.0" style="-fx-background-radius: 50;" text="-" />
+      <Button layoutX="816.0" layoutY="463.0" mnemonicParsing="false" onAction="#aumentarVelocidadeCarroRosa" prefHeight="25.0" prefWidth="26.0" style="-fx-background-radius: 50;" text="+" />
+      <Button layoutX="848.0" layoutY="463.0" mnemonicParsing="false" onAction="#diminuirVelocidadeCarroRosa" prefHeight="25.0" prefWidth="26.0" style="-fx-background-radius: 50;" text="-" />
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="769.0" layoutY="15.0" prefHeight="30.0" prefWidth="156.0" style="-fx-background-color: white; -fx-background-radius: 10;" text="Velocidade">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Line endX="111.0" layoutX="820.0" layoutY="130.0" startX="-57.0" />
+      <Line endX="111.0" endY="-1.52587890625E-5" layoutX="820.0" layoutY="200.0" startX="-57.0" />
+      <Line endX="111.00006103515625" layoutX="820.0" layoutY="280.0" startX="-57.0" />
+      <Line endX="111.00006103515625" layoutX="820.0" layoutY="360.0" startX="-57.0" />
+      <Line endX="111.00006103515625" layoutX="820.0" layoutY="440.0" startX="-57.0" />
+      <Line endX="111.00006103515625" layoutX="820.0" layoutY="510.0" startX="-57.0" />
+      <Line endX="111.0" layoutX="820.0" layoutY="60.0" startX="-57.0" />
+   </children>
+</Pane>
