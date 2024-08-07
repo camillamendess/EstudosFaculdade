@@ -1,0 +1,13 @@
+TADs
+- Vetor
+- Pilha (LIFO)
+- Fila (FIFO)
+- Lista Ordenada
+- Lista Simplesmente Encadeada
+- Lista Duplamente Encadeada
+- Árvore
+- Árvore Binária
+- Árvore Binária de Pesquisa
+- Maneiras de percorrer uma árvore
+- AVL 
+- Hash
