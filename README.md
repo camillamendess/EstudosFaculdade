@@ -1,6 +1,11 @@
-# Trabalhos e estudos de JAVA e C++ durante máterias da faculdade
+## Estudos de JAVA e C++ durante máterias da faculdade
 
-Algoritmos e Programação I
-Algoritmos e Programação II
-Algoritmos e Estrutura de Dados
-Programação Concorrente
+### Algoritmos e Programação I
+Aprendendo sobre lógica de programação com C++.
+### Algoritmos e Programação II
+Aprendendo sobre POO com Java.
+### Algoritmos e Estrutura de Dados
+Aprendendo sobre estruturas de dados com Java.
+### Programação Concorrente
+Aprendendo sobre programação concorrente com Java.
+
