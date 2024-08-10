@@ -1,6 +1,0 @@
-- Interface
-- Herança
-- Polimorfismo 
-- Composição 
-- Classes Abstratas e Métodos Abstratos
-- Padrões de Projeto (Design Patterns)
